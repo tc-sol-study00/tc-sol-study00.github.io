@@ -1,3 +1,3 @@
-# tc-sol-study00.github.io
+#メニュー
 
-[MSアカウント](docs/MSアカウントのEdgeへの登録方法 _ IT研修.html)
+[MSアカウントのEdgeへの登録方法](docs/MSアカウントのEdgeへの登録方法 _ IT研修.html)
